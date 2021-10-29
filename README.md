@@ -1,8 +1,9 @@
 # Project Title banking-app (Create React App) 
 
 # Description/Motivation:
-    This project exists soly for the purpose of learning, this has helped me learn React, Create React App, Bootstarp, and other programs. 
-    It was built as a project for my MIT Professional Certificate in Coding: Full Stack Development with MERN online course.
+    This project exists soly for the purpose of learning, this has helped me learn React, Create React App, Bootstarp, and other 
+    programs. It was built as a project for my MIT Professional Certificate in Coding: 
+    Full Stack Development with MERN online course.
     This app doesn't really solv any personal or business problems, other than the fact of teaching these technologies .
 
 
